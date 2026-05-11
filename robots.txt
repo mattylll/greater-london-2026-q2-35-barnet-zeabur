@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://greater-london-2026-q2-35-barnet-zeabur.zeabur.app/sitemap.xml
